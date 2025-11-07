@@ -1,4 +1,4 @@
-p{
+/* p{
     color: red;
     background-color: blueviolet;
     text-align: center;
@@ -12,7 +12,33 @@ background-color: black;
 #jk{
 
   font-size: 30px;  
-}
+} */
 /* em: This unit is relative to the font size of the parent element. */
 /* rem: This unit is relative to the font size of the root HTML element. */
-%: This unit is relatove to the font size 
+
+/* div{
+
+height: 200px;
+width: 200px;
+padding: 20px;
+margin: 100px;
+}
+
+.container{
+
+    color: chocolate;
+    background-color: darkolivegreen;
+    border: 3px double black;
+}
+
+.box{
+color: blueviolet;
+background-color: burlywood;
+border: 2px double brown;
+} */
+
+div{
+color: black;
+background-color: coral;
+border: 3px double black;
+}
